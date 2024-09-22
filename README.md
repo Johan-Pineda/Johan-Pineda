@@ -11,6 +11,12 @@
 
 🌱 Actualmente estoy aprendiendo **Java FX, SQL y CSS**.
 
+🌐 Gestión y optimización de bases de datos usando SQL
+
+💬 Colaboración en entornos de desarrollo con Git y GitHub
+
+</> Desarrollo de software con Java
+
 📫 Contacto: **pjohan.contacto@gmail.com**
 <!--Intro end-->
   </p>
@@ -26,9 +32,13 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Johan-Pineda">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Andrew-Nwm">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-<div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/johanpineda.15/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/johan-pineda-a6b91932a/">
+			<img src="https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png&color=000000" ></a>
+      </div>
 
 </p>
 <br>
