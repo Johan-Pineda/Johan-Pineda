@@ -1,7 +1,7 @@
 <h1 align="center">Hola y bienvenido a mi perfil 👋, soy <a href="https://github.com/Johan-Pineda" target="blank">Johan Pineda!</a></h1>
 
 <p align="center">
-<h3>Desarrollador full stack con experiencia en el diseño de webs y aplicaciones de gestión de datos</h3>
+<h3>Técnico en Operación y Mantenimiento de Bases de Datos</h3>
 
 🎓**Estudiante de Ingeniería en sistemas**
 
